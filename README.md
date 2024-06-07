@@ -49,4 +49,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## Use To Code
+## Languages and Tools
+
+<div align="center">
+  <a href="https://github.com/ayeshanweerasuriya">
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,cs,discord,figma,git,github,java,kotlin,sql,postman,py,react,stackoverflow,visualstudio,vscode" />
+  </a>
+</div>
