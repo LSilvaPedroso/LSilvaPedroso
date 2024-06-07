@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">LP</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <br>
+    「 I am a Junior Full Stack Developer and Junior Back End Developer from <b>Brasil</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
