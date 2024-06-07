@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br/>
 
 ## Languages and Tools
 
@@ -56,6 +55,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=powershell,cs,dotnet,js,html,css,py,react,java,kotlin,androidstudio,discord,figma,git,github,windows,postman,stackoverflow,visualstudio,vscode" />
   </a>
 </div>
+
+<br/>
+<br/>
 
 ## My Statistics
 
