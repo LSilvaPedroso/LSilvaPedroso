@@ -43,8 +43,8 @@ Here are some ideas to get you started:
   
  💻 &emsp; I Love to Learn new features and programming languages<br/><br/>
  🤔 &emsp; I'm always accepting help and suggestions on my codes<br/><br/>
- <!-- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>-->
  💬 &emsp; Ask me about anything [here](https://github.com/LSilvaPedroso/LSilvaPedroso/issues)
+ <!-- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>-->
 
 </p>
 
