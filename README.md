@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 
 <div align="center">
-  <a href="https://github.com/ayeshanweerasuriya">
+  <a href="[https://github.com/ayeshanweerasuriya](https://github.com/LSilvaPedroso)">
     <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,cs,discord,figma,git,github,java,kotlin,sql,postman,py,react,stackoverflow,visualstudio,vscode" />
   </a>
 </div>
