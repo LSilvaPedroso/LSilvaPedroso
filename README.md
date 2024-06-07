@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="[https://github.com/ayeshanweerasuriya](https://github.com/LSilvaPedroso)">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,cs,discord,figma,git,github,java,kotlin,sql,postman,py,react,stackoverflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=powershell,cs,dotnet,js,html,css,py,react,java,kotlin,androidstudio,discord,figma,git,github,windows,postman,stackoverflow,visualstudio,vscode" />
   </a>
 </div>
