@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ## My Statistics
 
 <a> 
-    <a href="https://github.com/LSilvaPedroso"><img alt="LP's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LSilvaPedroso&show_icons=true&count_private=true&theme=react&border_color=A3ADA9&bg_color=A3ADA9&title_color=EFF2F1&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/LSilvaPedroso"><img alt="LP's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LSilvaPedroso&langs_count=8&layout=compact&theme=react&border_color=A3ADA9&bg_color=A3ADA9&title_color=EFF2F1&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/LSilvaPedroso"><img alt="LP's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LSilvaPedroso&show_icons=true&count_private=true&theme=react&border_color=22272E&bg_color=22272E&title_color=EFF2F1&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/LSilvaPedroso"><img alt="LP's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LSilvaPedroso&langs_count=8&layout=compact&theme=react&border_color=22272E&bg_color=22272E&title_color=EFF2F1&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
