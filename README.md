@@ -31,3 +31,25 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
+<a href="https://www.linkedin.com/in/larissapedroso" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ 💻 &emsp; I Love to Learn new features and programming languages<br/><br/>
+ 🤔 &emsp; I'm always accepting help and suggestions on my codes<br/><br/>
+ <!-- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>-->
+ 💬 &emsp; Ask me about anything [here](https://github.com/LSilvaPedroso/LSilvaPedroso/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
