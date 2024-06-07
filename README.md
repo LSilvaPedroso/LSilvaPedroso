@@ -36,9 +36,9 @@ Here are some ideas to get you started:
   <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>-->
         <img src="https://skillicons.dev/icons?i=linkedin" />
  </a>
-<a href="https://www.linkedin.com/in/larissapedroso" target="_blank">
+<a href="https://github.com/LSilvaPedroso" target="_blank">
   <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>-->
-        <img src="https://skillicons.dev/icons?i=linkedin" />
+        <img src="https://skillicons.dev/icons?i=github" />
  </a>
  </p>
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/LSilvaPedroso">
-    <img src="https://skillicons.dev/icons?i=powershell,cs,dotnet,js,html,css,py,react,java,kotlin,androidstudio,discord,figma,git,github,windows,postman,stackoverflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=powershell,cs,dotnet,js,html,css,py,react,java,kotlin,androidstudio,figma,git,windows,postman,stackoverflow,visualstudio,vscode" />
   </a>
 </div>
 
