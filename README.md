@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Junior Full Stack Developer and Junior Back End Developer from <b>Brasil</b> 」
+    「 I am a Junior Full Stack Developer from <b>Brasil</b> 」
     <br>
     <br>
   </samp>
